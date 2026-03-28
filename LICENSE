@@ -1,0 +1,16 @@
+Voiceland Showcase License
+Copyright (c) 2026 Voiceland. All rights reserved.
+
+This repository is published as a public-facing showcase of product direction,
+design system work, interface boundaries, and selected demo-safe source files.
+
+No permission is granted to use, copy, modify, merge, publish, distribute,
+sublicense, or sell this repository or its contents, except as required to view
+the repository on platforms that host it and to evaluate it for collaboration,
+education, or reference.
+
+The production application, analyzer runtime, model artifacts, training assets,
+and other private implementation details are not included in this repository and
+remain proprietary.
+
+For licensing or collaboration inquiries, contact the repository owner.

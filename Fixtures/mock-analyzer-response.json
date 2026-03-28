@@ -1,0 +1,11 @@
+{
+  "note": "Illustrative contract example for public documentation only.",
+  "emitted": true,
+  "stream_id": "demo",
+  "metric_series": {
+    "pitch": [196.0],
+    "thinness": [25.0],
+    "resonance": [7.6],
+    "constriction": [1.7]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "note": "Illustrative mock data for UI demos only.",
+  "pitch": [180.0, 188.0, 196.0, 204.0],
+  "thinness": [24.0, 25.0, 26.0, 25.0],
+  "resonance": [7.0, 7.4, 7.8, 7.5],
+  "constriction": [1.4, 1.6, 1.8, 1.7]
+}
