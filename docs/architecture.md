@@ -29,7 +29,7 @@ Mic input
 | Document | Purpose |
 |---|---|
 | [repository-scope.md](repository-scope.md) | defines what belongs in the public repo |
-| [public-boundary.md](public-boundary.md) | defines safe vs private areas |
+| [publishing-boundary.md](publishing-boundary.md) | defines safe vs private areas |
 | [analyzer-contract.md](analyzer-contract.md) | explains the public analyzer interface |
 | [coreml-boundary.md](coreml-boundary.md) | explains where on-device ML sits in the runtime |
 
