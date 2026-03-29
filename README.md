@@ -2,9 +2,9 @@
 
 > Public Showcase
 
-![Platform: iPhone](https://img.shields.io/badge/Platform-iPhone-0f172a?style=flat-square)
-![Runtime: On-Device ML](https://img.shields.io/badge/Runtime-On--Device_ML-2563eb?style=flat-square)
-![License: All Rights Reserved](https://img.shields.io/badge/License-All_Rights_Reserved-dc2626?style=flat-square)
+![Platform: iPhone](https://img.shields.io/badge/Platform-iPhone-111827?style=flat-square&labelColor=0b1220)
+![Runtime: On-Device ML](https://img.shields.io/badge/Runtime-On--Device_ML-3b82f6?style=flat-square&labelColor=0f172a)
+![License: All Rights Reserved](https://img.shields.io/badge/License-All_Rights_Reserved-f472b6?style=flat-square&labelColor=1f172a)
 
 VoiceBloom is a voice training product built around supportive live feedback, on-device analysis, and a calm, precise iPhone experience.
 
