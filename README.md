@@ -1,4 +1,6 @@
-# VoiceBloom Showcase
+# VoiceBloom
+
+> Public Showcase
 
 VoiceBloom is a voice training product built around supportive live feedback, on-device analysis, and a calm, precise iPhone experience.
 
