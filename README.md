@@ -20,6 +20,12 @@ VoiceBloom is not positioned as a cold voice lab. The intended feel is:
 - precise without becoming clinical
 - expressive without losing technical credibility
 
+## Availability
+
+- iPhone app in active development
+- Internal TestFlight distribution is being prepared
+- Android app is planned and under consideration as part of the broader product roadmap
+
 ## Related Links
 
 - [VoiceBloom main repository](https://github.com/Xanaxxxxxx/VoiceBloom)
