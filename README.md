@@ -7,7 +7,9 @@
 ![Runtime: Core ML](https://img.shields.io/badge/Runtime-Core_ML-2563eb?style=flat-square)
 ![License: Proprietary](https://img.shields.io/badge/License-Proprietary-dc2626?style=flat-square)
 
-VoiceBloom is a voice training product built around supportive live feedback, on-device analysis, and a calm, precise iPhone experience.
+VoiceBloom is an on-device voice training app for pitch, resonance, vocal weight, and voice exploration.
+
+A calm, supportive iPhone experience for people shaping a voice that feels like their own.
 
 This repository is the public-facing layer for VoiceBloom's visual language, analyzer boundary, and selected demo-safe source files.
 
