@@ -20,6 +20,11 @@ VoiceBloom is not positioned as a cold voice lab. The intended feel is:
 - precise without becoming clinical
 - expressive without losing technical credibility
 
+## Related Links
+
+- [VoiceBloom main repository](https://github.com/Xanaxxxxxx/VoiceBloom)
+- [VoiceBloom Showcase](https://github.com/Xanaxxxxxx/voicebloom-showcase)
+
 ## Start Here
 
 | If you want to see... | Open |
