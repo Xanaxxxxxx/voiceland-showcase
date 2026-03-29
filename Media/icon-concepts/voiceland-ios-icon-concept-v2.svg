@@ -1,0 +1,64 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="186" y1="118" x2="842" y2="894" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#131823"/>
+      <stop offset="0.56" stop-color="#0B0F17"/>
+      <stop offset="1" stop-color="#06080E"/>
+    </linearGradient>
+    <radialGradient id="topSheen" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(406 226) rotate(55) scale(462 298)">
+      <stop stop-color="white" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="white" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blueGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(512 512) rotate(90) scale(244)">
+      <stop stop-color="#4E91FF" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#4E91FF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="drop" x="90" y="90" width="844" height="844" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="22" stdDeviation="26" flood-color="#02050C" flood-opacity="0.42"/>
+    </filter>
+    <filter id="petalGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="petalA" x1="512" y1="304" x2="512" y2="496" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#74AEFF"/>
+      <stop offset="1" stop-color="#2F69FF"/>
+    </linearGradient>
+    <linearGradient id="petalB" x1="648" y1="408" x2="516" y2="552" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5AF0DD"/>
+      <stop offset="1" stop-color="#26B8B0"/>
+    </linearGradient>
+    <linearGradient id="petalC" x1="594" y1="668" x2="470" y2="532" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFD05B"/>
+      <stop offset="1" stop-color="#FF9727"/>
+    </linearGradient>
+    <linearGradient id="petalD" x1="430" y1="668" x2="554" y2="532" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C27DFF"/>
+      <stop offset="1" stop-color="#725EFF"/>
+    </linearGradient>
+    <linearGradient id="petalE" x1="376" y1="408" x2="508" y2="552" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF78C3"/>
+      <stop offset="1" stop-color="#F2448E"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="112" y="112" width="800" height="800" rx="184" fill="url(#bg)" filter="url(#drop)"/>
+  <rect x="126" y="126" width="772" height="772" rx="170" stroke="white" stroke-opacity="0.08" stroke-width="2"/>
+  <ellipse cx="512" cy="250" rx="300" ry="170" fill="url(#topSheen)"/>
+  <circle cx="512" cy="512" r="258" fill="url(#blueGlow)"/>
+
+  <g filter="url(#petalGlow)">
+    <ellipse cx="512" cy="406" rx="74" ry="124" fill="url(#petalA)"/>
+    <ellipse cx="620" cy="484" rx="68" ry="114" transform="rotate(48 620 484)" fill="url(#petalB)"/>
+    <ellipse cx="578" cy="640" rx="66" ry="108" transform="rotate(118 578 640)" fill="url(#petalC)"/>
+    <ellipse cx="446" cy="640" rx="66" ry="108" transform="rotate(-118 446 640)" fill="url(#petalD)"/>
+    <ellipse cx="404" cy="484" rx="68" ry="114" transform="rotate(-48 404 484)" fill="url(#petalE)"/>
+  </g>
+
+  <circle cx="512" cy="530" r="92" fill="white" fill-opacity="0.94"/>
+  <circle cx="512" cy="530" r="58" fill="#F7FAFF"/>
+  <circle cx="512" cy="530" r="20" fill="white"/>
+</svg>

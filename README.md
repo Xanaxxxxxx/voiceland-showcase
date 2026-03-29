@@ -27,6 +27,13 @@ This repository is the public-facing layer for Voiceland's visual language, anal
 | If you want to see... | Open |
 |---|---|
 | Visual source samples | [Showcase/README.md](Showcase/README.md) |
+| Icon directions | [docs/icon-direction.md](docs/icon-direction.md) |
+| Apple-style icon concept | [Media/icon-concepts/voiceland-ios-icon-concept.svg](Media/icon-concepts/voiceland-ios-icon-concept.svg) |
+| Apple-style icon concept v2 | [Media/icon-concepts/voiceland-ios-icon-concept-v2.svg](Media/icon-concepts/voiceland-ios-icon-concept-v2.svg) |
+| Dark icon: Wave Mark | [Media/icon-concepts/voiceland-icon-wave-mark.svg](Media/icon-concepts/voiceland-icon-wave-mark.svg) |
+| Dark icon: Particle Wave | [Media/icon-concepts/voiceland-icon-particle-wave.svg](Media/icon-concepts/voiceland-icon-particle-wave.svg) |
+| Dark icon: Resonance Ring | [Media/icon-concepts/voiceland-icon-resonance-ring.svg](Media/icon-concepts/voiceland-icon-resonance-ring.svg) |
+| Dark icon: V Mark | [Media/icon-concepts/voiceland-icon-v-mark.svg](Media/icon-concepts/voiceland-icon-v-mark.svg) |
 | Analyzer interface | [docs/analyzer-contract.md](docs/analyzer-contract.md) |
 | On-device ML boundary | [docs/coreml-boundary.md](docs/coreml-boundary.md) |
 | Demo data | [Fixtures/sample-metrics.json](Fixtures/sample-metrics.json) |

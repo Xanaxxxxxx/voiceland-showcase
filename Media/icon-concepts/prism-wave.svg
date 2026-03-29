@@ -1,0 +1,33 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="130" y1="110" x2="900" y2="920" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#081325"/>
+      <stop offset="1" stop-color="#03060C"/>
+    </linearGradient>
+    <linearGradient id="spec" x1="244" y1="512" x2="780" y2="512" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4694FF"/>
+      <stop offset="0.5" stop-color="#38E6D3"/>
+      <stop offset="1" stop-color="#FF7CC1"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-30%" width="140%" height="160%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1024" height="1024" rx="224" fill="url(#bg)"/>
+
+  <path d="M318 262L706 512L318 762V262Z" stroke="#163554" stroke-width="4"/>
+
+  <g filter="url(#glow)">
+    <path d="M258 512H430" stroke="#4894FF" stroke-width="14" stroke-linecap="round"/>
+    <path d="M430 512L738 394" stroke="url(#spec)" stroke-width="12" stroke-linecap="round"/>
+    <path d="M430 512L784 512" stroke="url(#spec)" stroke-width="12" stroke-linecap="round"/>
+    <path d="M430 512L738 630" stroke="url(#spec)" stroke-width="12" stroke-linecap="round"/>
+  </g>
+
+  <circle cx="430" cy="512" r="12" fill="white"/>
+</svg>
