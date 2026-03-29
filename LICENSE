@@ -2,12 +2,12 @@ VoiceBloom Showcase License
 Copyright (c) 2026 VoiceBloom. All rights reserved.
 
 This repository is published as a public-facing showcase of product direction,
-design system work, interface boundaries, and selected demo-safe source files.
+visual design, interface boundaries, and selected demo-safe source files.
 
+You may view this repository for reference, evaluation, and discussion.
 No permission is granted to use, copy, modify, merge, publish, distribute,
-sublicense, or sell this repository or its contents, except as required to view
-the repository on platforms that host it and to evaluate it for collaboration,
-education, or reference.
+sublicense, sell, or create derivative works from this repository or its
+contents without prior written permission from the repository owner.
 
 The production application, analyzer runtime, model artifacts, training assets,
 and other private implementation details are not included in this repository and
