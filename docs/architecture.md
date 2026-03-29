@@ -2,7 +2,7 @@
 
 ## Product Runtime
 
-VoiceBloom on iOS currently follows this runtime boundary:
+Voiceland on iOS currently follows this runtime boundary:
 
 ```text
 Mic input

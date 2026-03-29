@@ -1,4 +1,4 @@
-# VoiceBloom
+# Voiceland
 
 > Public Showcase
 
@@ -7,11 +7,11 @@
 ![Runtime: Core ML](https://img.shields.io/badge/Runtime-Core_ML-2563eb?style=flat-square)
 ![License: Proprietary](https://img.shields.io/badge/License-Proprietary-dc2626?style=flat-square)
 
-VoiceBloom is an on-device voice training app for pitch, resonance, vocal weight, and voice exploration.
+Voiceland is an on-device voice training app for pitch, resonance, vocal weight, and voice exploration.
 
 A calm, supportive iPhone experience for people shaping a voice that feels like their own.
 
-This repository is the public-facing layer for VoiceBloom's visual language, analyzer boundary, and selected demo-safe source files.
+This repository is the public-facing layer for Voiceland's visual language, analyzer boundary, and selected demo-safe source files.
 
 ## Status
 
@@ -35,7 +35,7 @@ This repository is the public-facing layer for VoiceBloom's visual language, ana
 
 ## Brand Lens
 
-VoiceBloom is not intended to feel like a cold voice lab.
+Voiceland is not intended to feel like a cold voice lab.
 
 - supportive rather than judgmental
 - precise without becoming clinical
@@ -53,13 +53,13 @@ VoiceBloom is not intended to feel like a cold voice lab.
 
 ## Related Links
 
-- [VoiceBloom main repository](https://github.com/Xanaxxxxxx/VoiceBloom)
-- [VoiceBloom Showcase](https://github.com/Xanaxxxxxx/voicebloom-showcase)
+- [Voiceland main repository](https://github.com/Xanaxxxxxx/Voiceland)
+- [Voiceland Showcase](https://github.com/Xanaxxxxxx/voiceland-showcase)
 
 ## Repository Shape
 
 ```text
-voicebloom-showcase/
+voiceland-showcase/
 ├── README.md
 ├── LICENSE
 ├── Media/
@@ -75,4 +75,4 @@ voicebloom-showcase/
 
 ## Why This Repo Exists
 
-VoiceBloom is a product where trust matters. This repo exists to show product taste and engineering boundaries without exposing the private runtime, model artifacts, or training assets.
+Voiceland is a product where trust matters. This repo exists to show product taste and engineering boundaries without exposing the private runtime, model artifacts, or training assets.

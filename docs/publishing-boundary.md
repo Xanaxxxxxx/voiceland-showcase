@@ -27,4 +27,4 @@ This document defines what belongs in the public showcase repository and what st
 
 ## Working Rule
 
-If a file helps someone understand VoiceBloom's product quality or engineering discipline without materially helping them reproduce the core product capability, it is a candidate for this repo.
+If a file helps someone understand Voiceland's product quality or engineering discipline without materially helping them reproduce the core product capability, it is a candidate for this repo.

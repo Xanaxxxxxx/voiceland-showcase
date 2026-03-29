@@ -1,6 +1,6 @@
 import SwiftUI
 
-/// Public-facing adaptation of VoiceBloom's ambient background language.
+/// Public-facing adaptation of Voiceland's ambient background language.
 public struct ShowcaseAmbientBackground: View {
     public var themeColor: Color
     public var intensity: Double
@@ -39,7 +39,7 @@ public struct ShowcaseTopHeader: View {
 
     public var body: some View {
         HStack(alignment: .bottom) {
-            Text("VOICEBLOOM")
+            Text("VOICELAND")
                 .font(.system(size: 14, weight: .heavy))
                 .kerning(2)
                 .foregroundStyle(.white.opacity(0.9))
