@@ -2,6 +2,14 @@
 
 > Public Showcase
 
+![Platform: iPhone App](https://img.shields.io/badge/Platform-iPhone_App-0f172a?style=flat-square)
+![Runtime: On-Device ML](https://img.shields.io/badge/Runtime-On--Device_ML-2563eb?style=flat-square)
+![TestFlight: In Prep](https://img.shields.io/badge/TestFlight-In_Prep-f59e0b?style=flat-square)
+![Android: Planned](https://img.shields.io/badge/Android-Planned-10b981?style=flat-square)
+![License: All Rights Reserved](https://img.shields.io/badge/License-All_Rights_Reserved-dc2626?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/Xanaxxxxxx/voicebloom-showcase?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/Xanaxxxxxx/voicebloom-showcase?style=flat-square)
+
 VoiceBloom is a voice training product built around supportive live feedback, on-device analysis, and a calm, precise iPhone experience.
 
 This repository is a public showcase for the product's visual language, app architecture, and analyzer boundary. It is meant for people who want a quick way to understand how VoiceBloom approaches voice practice, trust, and on-device runtime design on iOS.
