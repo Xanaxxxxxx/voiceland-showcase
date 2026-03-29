@@ -1,8 +1,8 @@
 # VoiceBloom Showcase
 
-VoiceBloom is a real-time voice training product focused on live feedback for pitch, resonance, vocal weight, and constriction exploration.
+VoiceBloom is a voice training product built around supportive live feedback, on-device analysis, and a calm, precise iPhone experience.
 
-This repository is a public showcase for the product's visual language, app architecture, and analyzer boundary. It is meant for people who want a quick way to understand what VoiceBloom is building and how the experience is shaped on iOS.
+This repository is a public showcase for the product's visual language, app architecture, and analyzer boundary. It is meant for people who want a quick way to understand how VoiceBloom approaches voice practice, trust, and on-device runtime design on iOS.
 
 ## What You Can Explore Here
 
@@ -11,6 +11,14 @@ This repository is a public showcase for the product's visual language, app arch
 - the app-to-analyzer interface at a public level
 - the boundary between UI code and on-device ML
 - demo-safe source files and fixtures
+
+## Brand Lens
+
+VoiceBloom is not positioned as a cold voice lab. The intended feel is:
+
+- supportive rather than judgmental
+- precise without becoming clinical
+- expressive without losing technical credibility
 
 ## Start Here
 
