@@ -1,8 +1,8 @@
-# Voiceland Showcase
+# VoiceBloom Showcase
 
-Voiceland is a real-time voice training product focused on live feedback for pitch, resonance, vocal weight, and constriction exploration.
+VoiceBloom is a real-time voice training product focused on live feedback for pitch, resonance, vocal weight, and constriction exploration.
 
-This repository is a public showcase for the product's visual language, app architecture, and analyzer boundary. It is meant for people who want a quick way to understand what Voiceland is building and how the experience is shaped on iOS.
+This repository is a public showcase for the product's visual language, app architecture, and analyzer boundary. It is meant for people who want a quick way to understand what VoiceBloom is building and how the experience is shaped on iOS.
 
 ## What You Can Explore Here
 
@@ -35,12 +35,12 @@ This repository is a public showcase for the product's visual language, app arch
 
 ## Why This Repo Exists
 
-Voiceland is a product where trust matters. The app experience has to feel intentional, and the technical boundary has to feel credible. This repo exists to make that visible without turning the production system inside out.
+VoiceBloom is a product where trust matters. The app experience has to feel intentional, and the technical boundary has to feel credible. This repo exists to make that visible without turning the production system inside out.
 
 ## Repository Shape
 
 ```text
-voiceland-showcase/
+voicebloom-showcase/
 ├── README.md
 ├── LICENSE
 ├── Media/

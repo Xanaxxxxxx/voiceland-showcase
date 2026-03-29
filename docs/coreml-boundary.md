@@ -1,6 +1,6 @@
 # Core ML Boundary
 
-This document explains **where on-device ML sits** in the Voiceland runtime and where it does **not**.
+This document explains **where on-device ML sits** in the VoiceBloom runtime and where it does **not**.
 
 The goal is to make the architecture understandable without exposing the model pipeline deeply enough to reproduce it.
 

@@ -14,4 +14,4 @@ This showcase repository is a curated public layer, not a mirror of the private 
 
 ## Working Rule
 
-If a file helps someone understand Voiceland without materially helping them clone the core product capability, it is a candidate for this repo.
+If a file helps someone understand VoiceBloom without materially helping them clone the core product capability, it is a candidate for this repo.

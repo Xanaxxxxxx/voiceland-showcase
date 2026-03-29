@@ -1,6 +1,6 @@
 # Analyzer Contract
 
-This document describes the **public interface** between the Voiceland app layer and the analyzer layer.
+This document describes the **public interface** between the VoiceBloom app layer and the analyzer layer.
 
 It is intentionally contract-focused. It explains what the app sends, what it gets back, and what guarantees the UI can rely on. It does **not** document the private implementation behind those results.
 
