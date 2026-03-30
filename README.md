@@ -65,7 +65,21 @@ Voiceland is not intended to feel like a cold voice lab.
 
 This showcase reflects the product and engineering work tracked in the main Voiceland repository.
 
-[![Voiceland contributors](https://contrib.rocks/image?repo=Xanaxxxxxx/Voiceland)](https://github.com/Xanaxxxxxx/Voiceland/graphs/contributors)
+<p align="left">
+  <a href="https://github.com/Waveparlight">
+    <img src="https://github.com/Waveparlight.png?size=96" width="64" height="64" alt="Waveparlight" style="border-radius:50%;" />
+  </a>
+  <a href="https://github.com/antarfrica">
+    <img src="https://github.com/antarfrica.png?size=96" width="64" height="64" alt="Fan Lok Wai" style="border-radius:50%;" />
+  </a>
+</p>
+
+| Contributor | Role |
+|---|---|
+| [Waveparlight](https://github.com/Waveparlight) | Primary product and engineering work |
+| [Fan Lok Wai](https://github.com/antarfrica) | Supporting contributions |
+
+[View contributor history](https://github.com/Xanaxxxxxx/Voiceland/graphs/contributors)
 
 ## Repository Shape
 
