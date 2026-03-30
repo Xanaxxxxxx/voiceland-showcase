@@ -66,18 +66,18 @@ Voiceland is not intended to feel like a cold voice lab.
 This showcase reflects the product and engineering work tracked in the main Voiceland repository.
 
 <p align="left">
-  <a href="https://github.com/Waveparlight">
-    <img src="https://github.com/Waveparlight.png?size=96" width="64" height="64" alt="Waveparlight" style="border-radius:50%;" />
+  <a href="https://github.com/Xanaxxxxxx">
+    <img src="https://github.com/Xanaxxxxxx.png?size=96" width="64" height="64" alt="Xana" />
   </a>
   <a href="https://github.com/antarfrica">
-    <img src="https://github.com/antarfrica.png?size=96" width="64" height="64" alt="Fan Lok Wai" style="border-radius:50%;" />
+    <img src="https://github.com/antarfrica.png?size=96" width="64" height="64" alt="Fan Lok Wai" />
   </a>
 </p>
 
 | Contributor | Role |
 |---|---|
-| [Waveparlight](https://github.com/Waveparlight) | Primary product and engineering work |
-| [Fan Lok Wai](https://github.com/antarfrica) | Supporting contributions |
+| [Xana](https://github.com/Xanaxxxxxx) | Project Lead, iOS Development, Marketing, Design |
+| [Fan Lok Wai](https://github.com/antarfrica) | Voice Therapy Research, Machine Learning Training, Algorithm Design |
 
 [View contributor history](https://github.com/Xanaxxxxxx/Voiceland/graphs/contributors)
 
