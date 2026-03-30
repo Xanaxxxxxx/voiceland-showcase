@@ -76,8 +76,8 @@ This showcase reflects the product and engineering work tracked in the main Voic
 
 | Contributor | Role |
 |---|---|
-| [Xana](https://github.com/Xanaxxxxxx) | Project Lead, iOS Development, Marketing, Design |
-| [Fan Lok Wai](https://github.com/antarfrica) | Voice Therapy Research, Machine Learning Training, Algorithm Design |
+| [Xana](https://github.com/Xanaxxxxxx) | Lead Developer, HCI & iOS Engineering |
+| [Fan Lok Wai](https://github.com/antarfrica) | Research Lead, ML Systems & Voice Science |
 
 [View contributor history](https://github.com/Xanaxxxxxx/Voiceland/graphs/contributors)
 
