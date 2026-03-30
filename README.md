@@ -61,6 +61,12 @@ Voiceland is not intended to feel like a cold voice lab.
 - [Voiceland main repository](https://github.com/Xanaxxxxxx/Voiceland)
 - [Voiceland Showcase](https://github.com/Xanaxxxxxx/voiceland-showcase)
 
+## Contributors
+
+This showcase reflects the product and engineering work tracked in the main Voiceland repository.
+
+[![Voiceland contributors](https://contrib.rocks/image?repo=Xanaxxxxxx/Voiceland)](https://github.com/Xanaxxxxxx/Voiceland/graphs/contributors)
+
 ## Repository Shape
 
 ```text
