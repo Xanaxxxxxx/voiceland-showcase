@@ -68,7 +68,7 @@ This showcase reflects the product and engineering work tracked in the main Voic
 | Contributor | Role | Contact |
 |---|---|---|
 | [Xana](https://github.com/Xanaxxxxxx) | Lead Developer, HCI & iOS Engineering | `a21147348a@connect.polyu.hk` |
-| [Fan Lok Wai](https://github.com/antarfrica) | Research Lead, ML Systems & Voice Science | `1155194671@link.cuhk.edu.hk` |
+| [Fan Lok Wai](https://github.com/antarfrica) | Research Lead, ML Systems & Voice Science | [GitHub](https://github.com/antarfrica) |
 
 [View contributor history](https://github.com/Xanaxxxxxx/Voiceland/graphs/contributors)
 
